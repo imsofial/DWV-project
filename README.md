@@ -73,10 +73,3 @@ We use an external dataset from Kaggle, which provides detailed information on l
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-### Notes
-
-- Ensure to update the dataset link before publishing.
-- Modify deployment steps if using alternative hosting services.
